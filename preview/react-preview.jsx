@@ -1,6 +1,6 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-import { AzureMap, AzureMapsProvider } from '../dist/react-azure-maps.es5'
+import { AzureMap, AzureMapsProvider } from '../dist/react-azure-maps.es6'
 
 const option = {
   authOptions: {

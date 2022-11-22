@@ -1,7 +1,7 @@
 import { Map, source } from 'azure-maps-control'
 import React from 'react'
 import { AzureMapsContext } from '../../contexts/AzureMapContext'
-import { AzureMapDataSourceContext, IAzureMapFeature } from '../../react-azure-maps'
+import { AzureMapDataSourceContext, IAzureMapFeature } from '../../react-azure-maps-next'
 import { render } from '@testing-library/react'
 import AzureMapFeature from './AzureMapFeature'
 import { useFeature } from './useFeature'

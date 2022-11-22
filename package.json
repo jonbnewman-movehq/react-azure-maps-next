@@ -1,7 +1,7 @@
 {
-  "name": "react-azure-maps",
+  "name": "react-azure-maps-next",
   "version": "0.4.4",
-  "description": "React Wrapper for Azure Maps",
+  "description": "React Wrapper for Azure Maps (with CSS imports removed)",
   "keywords": [
     "react",
     "reactjs",
@@ -13,21 +13,21 @@
     "maps",
     "react-azure-maps"
   ],
-  "module": "dist/react-azure-maps.es5.js",
-  "types": "dist/types/react-azure-maps.d.ts",
+  "module": "dist/react-azure-maps-next.es6.js",
+  "types": "dist/types/react-azure-maps-next.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/react-azure-maps.es5.js",
-      "types": "./dist/types/react-azure-maps.d.ts"
+      "import": "./dist/react-azure-maps-next.es6.js",
+      "types": "./dist/types/react-azure-maps-next.d.ts"
     }
   },
   "files": [
     "dist"
   ],
-  "author": "WiredSolutions and Microsoft",
+  "author": "WiredSolutions and Microsoft + Jonathan Newman",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Azure/react-azure-maps"
+    "url": "https://github.com/jonbnewman-movehq/react-azure-maps-next"
   },
   "license": "MIT",
   "engines": {
