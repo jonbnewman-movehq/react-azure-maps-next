@@ -1,6 +1,6 @@
 {
   "name": "react-azure-maps-next",
-  "version": "0.4.4",
+  "version": "0.4.4a",
   "description": "React Wrapper for Azure Maps (with CSS imports removed)",
   "keywords": [
     "react",
